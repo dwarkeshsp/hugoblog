@@ -4,7 +4,9 @@ date: 2021-09-15
 draft: false
 ---
 
-Tony Kulesa recently wrote an interesting blog [post](https://kulesa.substack.com/p/tyler-cowen-is-the-best-curator-of) explaining why Tyler Cowen is the best curator of talent in the world. It focuses on Tyler's Emergent Ventures program which funds promising individuals early in their career. Kulesa's blog post raised some interesting questions about the impact, scalability, and future of great talent curation, and I want to address them here.
+Tony Kulesa recently wrote an interesting blog [post](https://kulesa.substack.com/p/tyler-cowen-is-the-best-curator-of) explaining why Tyler Cowen is the best curator of talent in the world. It focuses on Tyler's Emergent Ventures program which funds promising individuals early in their career. 
+
+Tyler's Emergent Ventures program raises some fascinating questions about how great talent curation is done, whether or not it's scalable, what impact it has, and what it reveals about our current education system. I address them here.
 
 ## What does a Emergent Ventures winner win?
 
