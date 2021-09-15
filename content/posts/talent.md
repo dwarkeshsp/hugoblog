@@ -84,7 +84,7 @@ The implication is clear: if talent, not capital, is the bottleneck to growth, w
 
 The question is, why aren’t more people trying to curate talent, whether for philanthropic reasons or simply for their own benefit?
 
-The first and most obvious reason is that identifying talent often doesn’t personally benefit a scout. He may get a collector’s satisfaction and a philanthropist’s pleasure, but not necessarily a hedge fund manager’s returns.  Talent curators, just like innovators, often can’t internalize most of the gains from their activities, and so it’s no surprise that both are undersupplied. In some sense, better talent curation actually is a type of  innovation.
+The first and most obvious reason is that identifying talent often doesn’t personally benefit a scout. He may get a collector’s satisfaction and a philanthropist’s pleasure, but not necessarily a hedge fund manager’s returns.  Talent curators, just like innovators, often can’t internalize most of the gains from their activities, so it’s no surprise that both are undersupplied. In some sense, better talent curation actually is a type of  innovation.
 
 The notable exception to this is sports, where there is an entire infrastructure set up to scout, evaluate, sponsor, and train promising athletes. This is because colleges can internalize the value of the players they recruit and train (completely so, in fact, since the players are not paid).
 

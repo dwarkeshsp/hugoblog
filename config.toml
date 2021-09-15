@@ -5,6 +5,8 @@ languageCode = "en-US"
 enableInlineShortcodes = true
 pygmentsCodeFences = true
 pygmentsUseClasses = true
+googleAnalytics = '286538189'
+
 
 [params]
   dark = "auto"
