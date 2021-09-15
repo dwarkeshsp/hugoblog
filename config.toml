@@ -1,0 +1,36 @@
+baseURL = "https://dwarkeshpatel.com"
+title = "Dwarkesh Patel"
+theme = "etch"
+languageCode = "en-US"
+enableInlineShortcodes = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  dark = "auto"
+  highlight = true
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "about"
+    url = "/about/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "subscribe"
+    name = "subscribe"
+    title = "subscribe"
+    url = "https://dwarkesh.substack.com/subscribe"
+    weight = 20
+[permalinks]
+  posts = "/:filename/"
+
+[markup.goldmark.renderer]
+  # Allow HTML in Markdown
+  unsafe = true
+
+  [markup.tableOfContents]
+    ordered = true

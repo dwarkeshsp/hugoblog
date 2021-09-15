@@ -1,0 +1,13 @@
+Hi! I'm a computer science student at UT Austin and the host of the [Lunar Society Podcast](https://www.youtube.com/c/DwarkeshPatel).
+
+## Let's Meet
+
+I would love to meet you over Zoom! Especially if:
+- You have comments or feedback on a blog post or podcast episode,
+- You have studied genomics, quantum information, or zero knowledge proofs,
+- You are a single 18-25 year old woman :),
+- You have your own blog, or
+- You are building a cool new project, technology, or company,
+
+  
+Select a time to chat [here](https://calendly.com/dwarkesh/meet).
