@@ -4,19 +4,19 @@ date: 2021-09-15
 draft: false
 ---
 
-Tony Kulesa recently wrote an interesting blog [post](https://kulesa.substack.com/p/tyler-cowen-is-the-best-curator-of) explaining why Tyler Cowen is the best curator of talent in the world. It focuses on Tyler's Emergent Ventures program which funds promising individuals early in their career. This post raised some interesting questions about the scalability, impacts, and methods of great talent identification, and I discuss them here.
+Tony Kulesa recently wrote an interesting blog [post](https://kulesa.substack.com/p/tyler-cowen-is-the-best-curator-of) explaining why Tyler Cowen is the best curator of talent in the world. It focuses on Tyler's Emergent Ventures program which funds promising individuals early in their career. Kulesa's blog post raised some interesting questions about the impact, scalability, and future of great talent curation, and I want to address them here.
 
-## What exactly is Emergent Ventures?
+## What does a Emergent Ventures winner win?
 
 Emergent Ventures is not a prize, since it’s awarded to people at the beginning of their careers. According to Kulesa, it’s not really a grant either, since the amount of money awarded is relatively small. Kulesa also argues that it’s not a good credential, because most recruiters don’t (yet) know that Tyler Cowen is a great talent curator. So what precisely do you get when you become an Emergent Ventures winner?
 
-Kulesa argues that Tyler uses EV to raise the winner’s ambition and give her a vision of what she could be. In this sense, it may actually benefit Tyler to have more people know about his talent curation abilities. The more the applicant believes that Tyler is great at picking talent, the greater her self-confidence and ambition will increase as a result of winning.
+Kulesa argues that Tyler uses EV to raise the winner’s ambition and give her a vision of what she could be. In this sense, it may benefit Tyler to have more people know about his talent curation abilities. The more the applicant believes that Tyler is great at picking talent, the greater her self-confidence and ambition will increase as a result of winning.
 
 But is raising people’s ambition a free lunch? Applicants come in with some implicit prior about their own competence and potential (which will be very plastic because of their age). If an applicant wins, she finds out that Tyler thinks she is promising, and her confidence increases. But if she is rejected, she finds out that Tyler does not think she has much potential, and her confidence decreases. This may be net positive, because it is much more important to raise the ambitions of the very best people, but it does come at a cost. Under this model, **Emergent Ventures works by transferring ambition from the simply great to the truly excellent. Average is over and Tyler killed it.**
 
 If this model is correct, one worry is that the young people who get picked out by this program are precisely the ones who didn’t need the help. The impact of philanthropy must be evaluated in comparison to the counterfactual in which it is not deployed. It is hard to imagine that a 17 year old building a fusion reactor in her garage or developing a new macroeconomic model for growth and sustainability isn’t already bound for greatness.
 
-But we might be underestimating the extent to which mimetic forces will drive these kids towards low-volatility competitive tracks. If you ask people what the coolest thing they did before they turned 20 was, you often hear of really interesting projects. But five or ten years down the line, you will often find them stuck on some mediocre career trajectory. A young writer who started a popular amatuer blog on ancient Rome in college is now churning out low value academic sludge. The coding prodigy who developed a cool new indie game in high school is now nudging a few pixels here and there for Google.
+But we might be underestimating the extent to which mimetic forces will drive these kids towards low-volatility competitive tracks. Find a 30 year old who is on a mediocre career trajectory. If you ask him to tell you about the coolest thing he did before he turned 20, you often hear of some really interesting projects. A young writer who started a popular amatuer blog on ancient Rome in college is now churning out low value academic sludge. The coding prodigy who was a white hat hacker in high school is now nudging a few pixels here and there for Google.
 
 Maybe the whole purpose of Emergent Ventures is to avoid this outcome. There is a crucial interval during which a person is old enough to show that he can do something great, but too young to have decided that he will. During this period, someone he really respects can drastically increase his ambition. This person can give to young adults a boon which Alex Dao claims VCs give to founders:
 
@@ -38,9 +38,9 @@ Kulesa writes:
 
 **Is any sufficiently good talent curator bound to suffer from a version of Goodhart’s law?** People notice how good he is at finding talent, turn his approval into a credential, and thus destroy his ability to exclusively attract earnest people with certain specific interests.
 
-If this were the case, it would partly explain why an academic economist is the best curator of talent in the world, and not the large corporations which spend billions on talent identification and recruitment.
+If this were the case, it would partly explain why an academic economist is the best curator of talent in the world, and not the corporations or venture capitalists spend billions on talent identification and recruitment.
 
-In the beginning, YC was an obscure program where hackers who wanted to solve a problem could get some funding and advice. Now, it’s a well known credential you can use to later get a job at a tech company or venture firm. I think it’s fair to say that this new status hasn’t exactly helped YC filter out disingenuous or unserious people.
+In the beginning, YC was an obscure program where hackers who wanted to solve a problem could get some funding and advice. Now, it’s a well known credential you can use to later get a job at a tech company or venture firm. This newfound status hasn’t exactly helped YC filter out disingenuous or unserious people.
 
 Talent curators face an entirely different set of incentives from most other kinds of traders. A successful hedge fund manager will usually want people to know that he has been beating the market. Status and success are self reinforcing. By being better known, he will have an easier time raising capital or getting the market to move in the direction he wants (notice what happens to a stock right after Warren Buffett gives his opinion on it). As a talent curator, however, you do not want the other fisherman to find your pond, nor the piranhas to bite on your line.
 
@@ -58,9 +58,9 @@ I want to contrast the kinds of advice Tyler gives when it comes to unearthing t
 
 When it comes to finding great meals, his advice is rational, straightforward, and actionable. He frames his analysis in terms of land, labor, and capital. Go where the raw ingredients are. Avoid locations with high fixed costs. Take advantage of cross subsidies. Consult with locals who are knowledgeable about the city’s market (for details, read Chapter 4 of his book *An Economist Gets Lunch*).
 
-When it comes to evaluating talent, (Kulesa’s compilation of) Tyler’s advice is vague, confusing, and indirect. Does one simply start reading Harold Bloom’s [Western Canon](https://www.amazon.com/Western-Canon-Books-School-Ages/dp/1573225142) and hope to come out the other end as a great talent curator[^2].
+When it comes to evaluating talent, (Kulesa’s compilation of) Tyler’s advice is vague, confusing, and indirect. Does one simply start reading Harold Bloom’s [Western Canon](https://www.amazon.com/Western-Canon-Books-School-Ages/dp/1573225142) and hope to come out the other end as a great talent curator[^1].
 
-[^2]: If you must learn to crack cultural codes before you can identify talent well, then should we replace hiring managers with comparative religion PhDs? Come to think of it, most college admissions officers probably do have a graduate degree in some kind of humanities which involves cracking cultural codes. Does Tyler think this is optimal or efficient?
+[^1]: If you must learn to crack cultural codes before you can identify talent well, then should we replace hiring managers with comparative religion PhDs? Come to think of it, most college admissions officers probably do have a graduate degree in some kind of humanities which involves cracking cultural codes. Does Tyler think this is optimal or efficient?
 
 Two qualifiers. First, Tyler has not yet published his book on identifying talent, so it’s no surprise that we don’t yet have his book quality analysis on the topic. It’s entirely likely that his upcoming book on the subject will have a few chapters of, “Let’s roll up our sleeves and analyze the factors of production here.”
 
@@ -84,11 +84,11 @@ The implication is clear: if talent, not capital, is the bottleneck to growth, w
 
 The question is, why aren’t more people trying to curate talent, whether for philanthropic reasons or simply for their own benefit?
 
-The first and most obvious reason is that identifying talent often doesn’t personally benefit a scout. He may get a collector’s satisfaction and a philanthropist’s pleasure, but not necessarily a hedge fund manager’s returns.  Talent curators, just like innovators, often can’t internalize most of the gains from their activities, so it’s no surprise that both are undersupplied. In some sense, better talent curation actually is a type of  innovation.
+The first and most obvious reason is that identifying talent often doesn’t personally benefit a scout. He may get a collector’s satisfaction and a philanthropist’s pleasure, but not necessarily a hedge fund manager’s returns.  Talent curators, just like innovators, often can’t internalize most of the gains from their activities, so it’s no surprise that both are undersupplied[^2]. In some sense, better talent curation actually is a type of  innovation.
 
-The notable exception to this is sports, where there is an entire infrastructure set up to scout, evaluate, sponsor, and train promising athletes. This is because colleges can internalize the value of the players they recruit and train (completely so, in fact, since the players are not paid).
+[^2]: One notable exception is sports, where there is an entire infrastructure set up to scout, evaluate, sponsor, and train promising athletes. This is because colleges can internalize the value of the players they recruit and train (completely so, in fact, since the players are not paid).
 
-An intellectual does not benefit to the same extent from the ideas which his protegee ends up developing[^3]. Similarly, a venture capitalist has nothing to gain from funding someone early in their career who clearly has potential but doesn’t yet have a promising business idea. He certainly doesn’t benefit from funding someone working in areas like basic science or the humanities which can’t easily be spun off into startups.
+An intellectual does not personally benefit from the ideas which his protegee ends up developing[^3]. Similarly, a venture capitalist has nothing to gain from funding someone early in their career who clearly has potential but doesn’t yet have a promising business idea. Neither does he profit from funding someone working in areas like basic science or the humanities which can’t easily be spun off into startups.
 
 [^3]: To the extent that intellectuals simply care about spreading their ideas (narrator: they don’t), on the margins, they should spend more time helping and promoting budding thinkers. I suspect, for example, that Thomas Sowell’s ideas would be better off had he spent the time it took to write his 30th book on identifying and mentoring young writers like Coleman Hughes. Sowell himself is the product of similar efforts by Milton Freedman.
 
