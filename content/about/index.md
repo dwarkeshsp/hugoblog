@@ -1,5 +1,7 @@
 Hi! I'm a computer science student at UT Austin and the host of the [Lunar Society Podcast](https://www.youtube.com/c/DwarkeshPatel).
 
+Feel free to email me with comments, feedback, etc. at dwarkesh.sanjay.patel@gmail.com
+
 ## Let's Meet
 
 I would love to meet you over Zoom! Especially if:
