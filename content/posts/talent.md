@@ -95,3 +95,7 @@ An intellectual does not personally benefit from the ideas which his protegee en
 [^3]: To the extent that intellectuals simply care about spreading their ideas (narrator: they don’t), on the margins, they should spend more time helping and promoting budding thinkers. I suspect, for example, that Thomas Sowell’s ideas would be better off had he spent the time it took to write his 30th book on identifying and mentoring young writers like Coleman Hughes. Sowell himself is the product of similar efforts by Milton Freedman.
 
 We need new financial and reputational instruments which help scouts like Tyler capture part of the massive value they create by boosting a career. What these instruments will look like remains to be seen. Maybe our culture will give more status to the early scouts who first identified successful people. Perhaps innovations on the blockchain will allow people to sell a fraction of their future net worth or status. As more and more such tools are created, great talent curators will be able to do to global brainpower what venture capital did to startups starting in the 1970s.
+
+---
+
+Thanks to Applied Divinity Studies and Tyler Cowen for comments.
