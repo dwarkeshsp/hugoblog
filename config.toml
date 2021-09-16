@@ -18,7 +18,14 @@ googleAnalytics = 'UA-207697668-1'
     name = "about"
     title = "about"
     url = "/about/"
-    weight = 20
+    weight = 10
+
+  [[menu.main]]
+    identifier = "twitter"
+    name = "twitter"
+    title = "twitter"
+    url = "https://twitter.com/dwarkesh_sp"
+    weight = 15
 
   [[menu.main]]
     identifier = "subscribe"
