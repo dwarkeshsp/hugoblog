@@ -60,11 +60,11 @@ I want to contrast the kinds of advice Tyler gives when it comes to unearthing t
 
 When it comes to finding great meals, his advice is rational, straightforward, and actionable. He frames his analysis in terms of land, labor, and capital. Go where the raw ingredients are. Avoid locations with high fixed costs. Take advantage of cross subsidies. Consult with locals who are knowledgeable about the city’s market (for details, read Chapter 4 of his book *An Economist Gets Lunch*).
 
-When it comes to evaluating talent, (Kulesa’s compilation of) Tyler’s advice is vague, confusing, and indirect. Does one simply start reading Harold Bloom’s [Western Canon](https://www.amazon.com/Western-Canon-Books-School-Ages/dp/1573225142) and hope to come out the other end as a great talent curator[^1].
+When it comes to evaluating talent, (Kulesa’s compilation of) Tyler’s advice is vague, confusing, and indirect. Does one simply start reading Harold Bloom’s [Western Canon](https://www.amazon.com/Western-Canon-Books-School-Ages/dp/1573225142) and hope to come out the other end as a great talent curator[^1]?
 
 [^1]: If you must learn to crack cultural codes before you can identify talent well, then should we replace hiring managers with comparative religion PhDs? Come to think of it, most college admissions officers probably do have a graduate degree in some kind of humanities which involves cracking cultural codes. Does Tyler think this is optimal or efficient?
 
-Two qualifiers. First, Tyler has not yet published his book on identifying talent, so it’s no surprise that we don’t yet have his book quality analysis on the topic. It’s entirely likely that his upcoming book on the subject will have a few chapters of, “Let’s roll up our sleeves and analyze the factors of production here.”
+Two qualifiers. First, Tyler has not yet published his book on identifying talent, so it’s no surprise that we don’t yet have his book quality analysis on the topic. It’s entirely likely that his [upcoming book](https://www.amazon.com/Talent-Identify-Energizers-Creatives-Winners/dp/1250275814) will have a few chapters of, “Let’s roll up our sleeves and analyze the factors of production here.”
 
 Second, we shouldn’t just dismiss the idea that maybe Tyler really did learn how to identify talent from studying the humanities. The people who call themselves practitioners instead of theorists will be skeptical of this claim. But if they really took praxis seriously, they would learn from Tyler's success and read the Iliad or book a trip to Senegal.
 
