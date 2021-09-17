@@ -26,11 +26,30 @@ Maybe the whole purpose of Emergent Ventures is to avoid this outcome. There is 
 
 Of course, this is a moot point if the main benefit of becoming an Emergent Ventures winner is the introduction to a talent-dense network - one which would not have existed without Tyler. The history of rapid progress is largely a catalog of legendary networks. Perhaps we will remember Emergent Ventures as one more item in this inventory which includes the Lunar Society of Birmingham and Building 1 at Bell Labs.
 
-## Is education still about signaling?
+## Is the signaling equilibrium for education shifting?
 
-What does the success of Emergent Ventures say about the world? You can view EV as an indirect rebuttal to Bryan Caplan’s book *The Case Against Education*. **Bryan’s claim that education is mostly about signaling relies on the premise that identifying talent is extremely hard**. It is so hard that we cannot figure out a better way of doing it than checking who is willing to burn four years doing mostly pointless cognitively demanding work. Emergent Ventures proves that with minimal signaling costs, it is possible to identify super right tail “teenager researching new biomaterials” talent (though not necessarily +1 standard deviation “someone who can just write me a goddamn report” talent).
+What does the success of Emergent Ventures say about the world? You can view EV as an indirect rebuttal to Bryan Caplan’s book *The Case Against Education*. **Bryan’s claim that education is mostly about signaling relies on the premise that identifying talent is extremely hard**. It is so hard that in the current equilibrium, employers do it by checking who is willing to burn four years doing mostly pointless cognitively demanding work. Depending on your perspective, you can either see this as an indictment of the current education system - it takes you four years to test what Tyler can learn in 1500 words? - or a vindication - if talent can be identified this efficiently, maybe higher education really is about education.
 
-Depending on your perspective, you can either see this as an indictment of the current education system - it takes you four years to signal what Tyler can learn in 1500 words? - or a vindication - if talent can be identified this efficiently, maybe higher education really is about education.
+Emergent Ventures proves that with minimal signaling costs, it is possible to identify super right tail “teenager researching new biomaterials” talent. However, college may still be the best way to identify +1 standard deviation “someone who can just write me a goddamn report” talent. Tyler's success at finding interesting contrarians matters little to most employers, who need conformity and are depending on colleges to test for it. 
+
+Conformity is harder to test for than weirdness, for the same reason that proving a negative is harder than proving a positive. All you need to do to check if someone is an interesting rebel is see if he can do something interesting and rebellious. And if he can't do it within the 1500 word limit of the Emergent Ventures application, then he can't do it at all.
+
+Signalling conformity requires more work, because even the rebel can bide his time in a crew cut and stuffy suit for a while. You have to wait four years (and possibly more) to make sure you've filtered out most of the troublesome elements.
+
+So whether programs like Emergent Ventures or the Thiel Fellowship will allow more and more young people to escape the academic gauntlet depends in part on whether signalling conformity will become more or less important in the future. Tyler thinks the former is more likely in *Average is Over*:
+
+> If you’re a young male hothead who just can’t follow orders, and you have your own ideas about how everything should be done, you’re probably going to have an ever-tougher time in the labor markets of the future. There won’t be much room for a “rebel without a cause” or, for that matter, a rebel with a cause ...
+>
+> Let’s draw up a simple list of some important characteristics in technologically advanced modern workplaces:
+>
+> 1. Exactness of execution becomes more important relative to an accumulated mass of brute force.
+> 
+> 2. Consistent coordination over time is a significant advantage.
+> 
+> 3. Morale is extremely important to motivate production and cooperation.
+
+The new equilibrium for education may be one where most people have to receive more and more years of education in order to signal conformity and conscientiousness. However, the very best people, from whom innovation and creativity are expected, will be identified early, and they will be given enough funding and mentorship to get a head start on their careers. Once again, average is over.
+
 
 ## Is talent curation scalable?
 
