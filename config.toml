@@ -8,7 +8,7 @@ pygmentsUseClasses = true
 googleAnalytics = 'UA-207697668-1'
 
 [params]
-  dark = "auto"
+  dark = "off"
   highlight = true
 
 [menu]
@@ -18,7 +18,13 @@ googleAnalytics = 'UA-207697668-1'
     name = "about"
     title = "about"
     url = "/about/"
-    weight = 10
+
+  [[menu.main]]
+    identifier = "podcast"
+    name = "podcast"
+    title = "podcast"
+    url = "https://www.youtube.com/c/DwarkeshPatel"
+    weight = 12
 
   [[menu.main]]
     identifier = "twitter"
