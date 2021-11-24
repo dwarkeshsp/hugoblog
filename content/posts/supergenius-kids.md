@@ -38,7 +38,7 @@ $$kids = \log_{Pr[\text{Average kid has IQ} \leq 150]} 0.5$$
 
 To figure out $$Pr[\text{Average kid has IQ} \leq 150] $$[^1], we first need to figure out the standard deviation of the genetic component of IQ ($$\sigma_g$$) and the environmental component of IQ ($$\sigma_e$$). We can start with the equation for heritability, which is the proportion of the total variance of a trait explained by genetics:
 
-[^1]: I know technically speaking it should be $$Pr[\text{Average kid has IQ} < 150] $$ instead of $$Pr[\text{Average kid has IQ} \leq 150] $$, but the latter makes it easier to use the normal distribution CDF.
+[^1]: I know technically speaking it should be $$Pr[\text{Average kid has IQ} < 150] $$ instead of $$Pr[\text{Average kid has IQ} \leq 150] $$, but the later makes it easier to use the normal distribution CDF.
 
 $$h = \frac{v_g}{v_p}$$
 
@@ -55,7 +55,7 @@ This evaluates to:
 
 $$z_e \approx 6.8516 - 1.83712 z_g$$
 
-The probability that their average kid has an IQ over 150 is the sum of $$P(Z > z_g) \cdot P(Z > z_e)$$ [^2] over all values of $$z_g$$ and the corresponding value of $$z_e$$. Which means:
+The probability that their average kid has an IQ over 150 is the sum of $$P(Z > z_g) \cdot P(Z > z_e)$$[^2] over all values of $$z_g$$ and the corresponding value of $$z_e$$. Which means:
 
 [^2]: $$P(Z < x)$$, aka $$\phi(x)$$, is the cumulative density function of the normal distribution, explained [here](https://www.probabilitycourse.com/chapter4/4_2_3_normal.php).
 
