@@ -10,7 +10,7 @@ Please email me at dwarkesh.sanjay.patel@gmail.com if you figure out that I've f
 
 ## Introduction
 
-Scott Alexander recently wrote a really interesting blog [post](https://astralcodexten.substack.com/p/secrets-of-the-great-families) about why some families have a long list of super impressive members. He asks how genetic advantages like IQ can persevere through generations given regression to the mean:
+Scott Alexander recently wrote a really interesting blog [post](https://astralcodexten.substack.com/p/secrets-of-the-great-families) about why some families manage to produce super-impressive people generation after generation. He asks how genetic advantages like IQ can persevere through generations given regression to the mean:
 
 > Suppose Erasmus Darwin had a genius-level IQ of 150. And suppose that he tried very hard to marry a bright woman, and his screening mechanism was as successful as the Ivies or Oxbridge when they screen for bright people - in that case his wife would have the same IQ as an average Ivy Leaguer, maybe 130ish. We would predict their average child to have an IQ of 124. Why is the average lower than either parent? Regression to the mean - IQ is probably a combination of genes and random factors, and if your IQ is very high it means you probably have a combination of good genes and good random dice rolls, and even though you can pass on the good genes your kids will probably only get average dice rolls.
 > 
