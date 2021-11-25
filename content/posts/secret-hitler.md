@@ -12,15 +12,15 @@ Here is a link to the [rules](https://www.secrethitler.com/assets/Secret_Hitler_
 
 {{< youtube mbGXIDYdtas >}}
 
-During COVID, I got to play a ton of Secret Hitler. I was curious if I could build a bot that would help me figure out who the fascist players were based on some very basic information: Who were the president and chancellor during each turn? What policy did they pass? How many liberal and fascist cards potentially remained in the pile they drew from? I decided to build a simple Bayesian network. 
+During COVID, I got to play a ton of Secret Hitler. I was curious if I could build a bot that would help me figure out who the fascist players were based on some very basic information: Who were the president and chancellor during each turn? What policy did they pass? How many liberal and fascist cards potentially remained in the pile they drew from?
 
-There's plenty of information about the players that my approach can't make use of. What if someone is acting suspicious? What if Hitler intentionally passes a liberal policy in order to avoid being suspected by liberal players? What if the presidents across two turns make claims about the combination of cards they drew which are mutually incompatible? I think more advanced methods like [counterfactual regret minimization](http://modelai.gettysburg.edu/2013/cfr/cfr.pdf) should be able to integrate these kinds of considerations. 
+There's plenty of information about the players that a simply Bayesian network like mine can't make use of. What if someone is acting suspicious? What if Hitler intentionally passes a liberal policy in order to avoid being suspected by liberal players? What if the presidents across two turns make claims about the combination of cards they drew which are mutually incompatible? I think more advanced methods like [counterfactual regret minimization](http://modelai.gettysburg.edu/2013/cfr/cfr.pdf) should be able to integrate these kinds of considerations. 
 
 ## Introduction
 
-At the start of the game, each person is equally likely to be a fascist. At the end of every turn, based on whether the policy played was liberal or fascist, we want to update the probabilities that the president and the chancellor during that turn were fascist.
+At the start of the game, each player is equally likely to be a fascist. At the end of every turn, based on whether the policy played was liberal or fascist, we want to update the probabilities that the president and the chancellor during that turn were fascist.
 
-The difficulty is that the probability of the president being fascist is in part determined by the probability that the chancellor is fascist and vice versa. For example, if a fascist policy is played, but we have a high prior on the chancellor being fascist, then this should be somewhat exculpatory for the president.
+The difficulty is that the probability the president is fascist is in part determined by the probability that the chancellor is fascist and vice versa. For example, if a fascist policy is played, but we have a high prior on the chancellor being fascist, then this should be somewhat exculpatory for the president.
 
 Therefore, a straightforward application of Bayes rule will not work. We will need to create a Bayesian network which updates priors on a player being fascist based on the other player involved in the turn. Let us define the variables.
 
