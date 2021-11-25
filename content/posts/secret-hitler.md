@@ -6,15 +6,23 @@ katex: true
 markup: "mmark"
 ---
 
+*Shoutout to Aidan and Tristan Caplan for helping me with this project.*
+
 Here is a link to the [rules](https://www.secrethitler.com/assets/Secret_Hitler_Rules.pdf) of Secret Hitler.
+
+---
+
+During COVID, I got to play a ton of Secret Hitler. I was curious if I could build a bot that would help me figure out who the fascist players were based on some very basic information: Who were the president and chancellor during this turn? What policy did they pass? How many liberal and fascist cards potentially remain in the pile they drew from? I decided to build a simple Bayesian network in order to find the fascists. 
+
+There's plenty of information about the players that my approach can't make use of. What if someone is acting suspicious? What if Hitler intentionally passes a liberal policy in order to avoid being suspected by liberal players? What if the presidents across two turns make claims about the combination of cards they drew which are mutually incompatible? I think more advanced methods like [counterfactual regret minimization](http://modelai.gettysburg.edu/2013/cfr/cfr.pdf) should be able to integrate these kinds of considerations. 
 
 ## Introduction
 
-Based on whether the policy played at the end of a turn is liberal or fascist, we want to update the probability that the president during that turn is fascist and the probability that the chancellor during that turn is fascist.
+At the start of the game, each person is equally likely to be a fascist. At the end of every turn, based on whether the policy played was liberal or fascist, we want to update the probabilities that the president and the chancellor during that turn were fascist.
 
-The difficulty is that the probability of the president being fascist is in part determined by the probability that the chancellor is fascist and visa versa. For example, if a fascist policy is played, but we have a high prior on the chancellor being fascist, then this should be somewhat exculpatory for the president.
+The difficulty is that the probability of the president being fascist is in part determined by the probability that the chancellor is fascist and vice versa. For example, if a fascist policy is played, but we have a high prior on the chancellor being fascist, then this should be somewhat exculpatory for the president.
 
-Therefore, a straightforward application of Bayes rule will not do. We will need to create a Bayesian network which updates priors on a player being fascist based on the other player involved in the turn. Let us define the variables.
+Therefore, a straightforward application of Bayes rule will not work. We will need to create a Bayesian network which updates priors on a player being fascist based on the other player involved in the turn. Let us define the variables.
 
 ## Variables
 
@@ -36,7 +44,7 @@ Specifically, **our program must be able to figure out $$P(P_f | L)$$, $$P(P_f |
 
 ## The Network
 
-![network](/bayesian-network.png)
+![network](/secret-hitler-network.png)
 
 As you can see, the president has some probability of drawing 1 out of 4 different combinations of 3 cards from the deck: 3 liberals 0 fascists, 2 liberals 1 fascists, and so on. Which 2 cards he hands down to the chancellor depend on which 3 he drew and whether he is a fascist. That is unless he draws 3 of the same kind, in which case it doesn't matter if he is a fascist or not.
 
@@ -84,7 +92,7 @@ $$
 P(F | P_f) = P(0, 3) + P(1,2) + P(C_f | P_f) \cdot P(2,1) 
 $$
 
-What is $$P(C_f | P_f)$$, and why is not equal simply to our stored prior on the chancellor being a fascist, $$P(C_f)$$? Let $$n$$ be the total number of players. We know that only a certain number of the players are fascist (specifically, $$\lfloor \frac{n}{2} \rfloor + 1$$). So, if we're assuming that the president is a fascist, the liberal odds we thought he had should be evenly distributed amongst the remaining players:
+What is $$P(C_f | P_f)$$, and why is not equal simply to our stored prior on the chancellor being a fascist, $$P(C_f)$$? Let $$n$$ be the total number of players. We know that only a certain number of the players are fascist (specifically, $$\lceil \frac{n}{2} \rceil - 1$$ including Hitler). So, if we're assuming that the president is a fascist, the liberal odds we thought he had should be evenly distributed amongst the remaining players:
 
 $$
 P(C_f | P_f) = P(C_f) - \frac{1 - P(P_f)}{n - 1}
@@ -218,7 +226,7 @@ def card_if_fas_prob(card, player, other_player):
         (1 - other_player_fas_prob)
 
 
-# P(C_f | P_f) or vica versa
+# P(C_f | P_f) or vice versa
 def fas_prob_updated(player, fascist_player):
     leftover_liberal = fas_probs[fascist_player] / (players - 1)
     return fas_probs[player] - leftover_liberal
