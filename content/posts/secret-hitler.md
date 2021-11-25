@@ -8,11 +8,11 @@ markup: "mmark"
 
 *Shoutout to Aidan and Tristan Caplan for helping me with this project.*
 
-Here is a link to the [rules](https://www.secrethitler.com/assets/Secret_Hitler_Rules.pdf) of Secret Hitler.
+Here is a link to the [rules](https://www.secrethitler.com/assets/Secret_Hitler_Rules.pdf) of Secret Hitler. Here is a video which quickly explains these rules:
 
----
+{{< youtube mbGXIDYdtas >}}
 
-During COVID, I got to play a ton of Secret Hitler. I was curious if I could build a bot that would help me figure out who the fascist players were based on some very basic information: Who were the president and chancellor during this turn? What policy did they pass? How many liberal and fascist cards potentially remain in the pile they drew from? I decided to build a simple Bayesian network in order to find the fascists. 
+During COVID, I got to play a ton of Secret Hitler. I was curious if I could build a bot that would help me figure out who the fascist players were based on some very basic information: Who were the president and chancellor during each turn? What policy did they pass? How many liberal and fascist cards potentially remained in the pile they drew from? I decided to build a simple Bayesian network. 
 
 There's plenty of information about the players that my approach can't make use of. What if someone is acting suspicious? What if Hitler intentionally passes a liberal policy in order to avoid being suspected by liberal players? What if the presidents across two turns make claims about the combination of cards they drew which are mutually incompatible? I think more advanced methods like [counterfactual regret minimization](http://modelai.gettysburg.edu/2013/cfr/cfr.pdf) should be able to integrate these kinds of considerations. 
 
