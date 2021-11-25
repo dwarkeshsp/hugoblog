@@ -6,8 +6,6 @@ katex: true
 markup: "mmark"
 ---
 
-Please email me at dwarkesh.sanjay.patel@gmail.com if you figure out that I've messed up the math. It wouldn't surprise me since genetics or statistics aren't my thing, and I would really appreciate the correction.
-
 ## Introduction
 
 Scott Alexander recently wrote a really interesting blog [post](https://astralcodexten.substack.com/p/secrets-of-the-great-families) about why some families manage to produce super-impressive people generation after generation. He asks how genetic advantages like IQ can persevere through generations given regression to the mean:
