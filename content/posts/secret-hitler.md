@@ -74,7 +74,7 @@ $$P(P_f)$$ is simply our stored value for the prior that the president is fascis
 
 $$P(F)$$ is the probability that a fascist card would get played this turn, and this is basically the proportion of remaining cards in the pile that are fascists.
 
-So the only thing that remains to be figured out is $$P(F | P_f)$$. What is the probability a fascist is played if the president is fascist? Well, this depends on what the president draws from the pile. If he draws 3 fascists and 0 liberals, then the final card played is guaranteed to be a fascist. Likewise, if a fascist president draws 2 fascists and 1 liberal, he will discard the 1 liberal and the final outcome will remain fascist. 
+So the only thing that remains to be figured out is $$P(F | P_f)$$. What is the probability a fascist is played if the president is fascist? Well, this depends on what the president draws from the pile. If he draws 0 liberals and 3 fascists, then the final card played is guaranteed to be a fascist. Likewise, if a fascist president draws 1 liberal and 2 fascists, he will discard the 1 liberal and the final outcome will remain fascist. 
 
 The only other case where a fascist is played is when the president draws 1 fascist and 2 liberals, discards the liberal, and hands the heterogenous pair to a chancellor who is also fascist, who then discards the remaining liberal to play a fascist. In other words, for a fascist to be played when 1 fascist and 2 liberals are drawn, the chancellor also has to be fascist.
 
@@ -176,6 +176,10 @@ $$
 
 
 ## Code
+
+Set the `players` variable to however many are playing.
+
+After every turn, just add a line running `record turn` with `LIBERAL` or `FASCIST` and the indexes of the president and chancellor.
 
 ```python
 import math
