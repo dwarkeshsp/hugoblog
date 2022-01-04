@@ -6,7 +6,7 @@ draft: false
 
 I am interviewing Samo Burja tomorrow, and I wanted to collect my thoughts on his [great founder theory](https://samoburja.com/wp-content/uploads/2020/11/Great_Founder_Theory_by_Samo_Burja_2020_Manuscript.pdf).
 
-The problem with theories of history is that they are all correct. History is very complicated, and almost any explanation can project it onto some valid subspace of the past. At current margins, I would say that great men, technological and economic development, and randomness are underrated while great ideas, group conflict, and geography are overrated.
+The problem with theories of history is that they are all correct. History is very complicated, and many explanations are required in order to account for it. At current margins, I would say that great men, technological and economic development, and randomness are underrated while great ideas, group conflict, and geography are overrated.
 
 That being said, I have learned a tremendous amount from Samo’s great founder theory (that’s why I’m interviewing him!) and I’m really glad he’s exploring the explanatory power of this model.
 
